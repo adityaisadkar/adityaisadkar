@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building interactive web experiences, cloud solutions, and AI-driven applications. Currently, I'm honing my skills as a **Tech Intern at Webisdom**, working on MERN stack and WordPress development.
+I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building interactive web experiences, cloud solutions, and AI-driven applications. Currently, I'm working as a **Full-Stack Developer at Webisdom**, specializing in MERN stack and WordPress development.
 
 - 🔭 I’m currently working on **Full-Stack Projects & AI Integrations**.
 - 🌱 I’m currently learning **Advanced Cloud Architectures & LLM Fine-tuning**.
@@ -41,8 +41,8 @@ I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaisadkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaisadkar&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaisadkar&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaisadkar&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
