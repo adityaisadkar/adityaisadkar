@@ -6,12 +6,13 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building interactive web experiences, cloud solutions, and AI-driven applications. Currently, I'm working as a **Full-Stack Developer at Webisdom**, specializing in MERN stack and WordPress development.
+I'm a **Full-Stack Developer**, **Tech Enthusiast**, and **Fresh Graduate** passionate about building interactive web experiences, cloud solutions, and AI-driven applications. Currently, I'm working as a **Full-Stack Developer at Webisdom**, specializing in MERN stack and WordPress development.
 
 - 🔭 I’m currently working on **Full-Stack Projects & AI Integrations**.
 - 🌱 I’m currently learning **Advanced Cloud Architectures & LLM Fine-tuning**.
 - 💬 Ask me about **MERN Stack, AWS, or Java**.
 - 📫 How to reach me: **adityaisadkar940@gmail.com**
+- ⚡ **Let's connect and build something new!**
 
 ---
 
@@ -33,6 +34,8 @@ I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building 
 ### 🚀 Projects
 
 - **[Job Portal](https://github.com/adityaisadkar)**: A comprehensive job search and application platform built with the MERN stack.
+- **[Vigenère Cipher Tool](https://github.com/adityaisadkar/VigenereCipherTool)**: A Java-based encryption/decryption application with a custom UI and scratch-built algorithm implementation.
+- **[Reservation System](https://github.com/adityaisadkar/hotel-reservation-system)**: A hotel management system using Java, JDBC, and MySQL for efficient CRUD operations and real-time updates.
 - **[Real-Time License Plate Recognition](https://github.com/adityaisadkar)**: An AI-powered vehicle identification system using OpenCV and Tesseract OCR.
 - **[StudyxBuddzies](https://github.com/adityaisadkar)**: An AI-driven collaboration tool for students.
 
@@ -41,8 +44,8 @@ I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaisadkar&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaisadkar&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaisadkar&show_icons=true&theme=transparent#gh-dark-mode-only" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaisadkar&layout=compact&theme=transparent#gh-dark-mode-only" alt="Top Languages" />
 </p>
 
 ---
