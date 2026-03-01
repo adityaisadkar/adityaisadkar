@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there! I'm Aditya Isadkar 👋
 
-<!--
-**adityaisadkar/adityaisadkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://socialify.git.ci/adityaisadkar/adityaisadkar/image?description=1&font=Inter&name=1&owner=1&pattern=Circuit%20Board&theme=Dark" alt="Aditya Isadkar" width="640" height="320" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Full-Stack Developer** and **Fresh Graduate** passionate about building interactive web experiences, cloud solutions, and AI-driven applications. Currently, I'm honing my skills as a **Tech Intern at Webisdom**, working on MERN stack and WordPress development.
+
+- 🔭 I’m currently working on **Full-Stack Projects & AI Integrations**.
+- 🌱 I’m currently learning **Advanced Cloud Architectures & LLM Fine-tuning**.
+- 💬 Ask me about **MERN Stack, AWS, or Java**.
+- 📫 How to reach me: **adityaisadkar940@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projects
+
+- **[Job Portal](https://github.com/adityaisadkar)**: A comprehensive job search and application platform built with the MERN stack.
+- **[Real-Time License Plate Recognition](https://github.com/adityaisadkar)**: An AI-powered vehicle identification system using OpenCV and Tesseract OCR.
+- **[StudyxBuddzies](https://github.com/adityaisadkar)**: An AI-driven collaboration tool for students.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaisadkar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaisadkar&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Socials & Contact
+
+<p align="left">
+  <a href="https://aditya-isadkar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/aditya-isadkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adityaisadkar940@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
